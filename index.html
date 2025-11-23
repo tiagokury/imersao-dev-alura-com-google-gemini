@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
     <title>Imersão Dev com Google Gemini</title>
   </head>
   <body>
@@ -10,14 +11,14 @@
       <h1>Ferdinando Charcutaria Artesanal</h1>
       <div>
         <input id="search" type="text" placeholder="Ex.: Salame Italiano" />
-        <button onclick="iniciarBusca()">Buscar</button>
+        <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
       </div>
     </header>
     <main>
       <section></section>
     </main>
-    <footer>
-      <ul>
+    <footer class="footer">
+      <ul class="footer-links">
         <li><a href="#">Instagram</a></li>
         <li><a href="#">WhatsApp</a></li>
       </ul>
