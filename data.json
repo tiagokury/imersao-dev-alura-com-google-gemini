@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "Linguiça",
+    "descricao": "Linguiça é a base da charcutaria!",
+    "link": "https://en.wikipedia.org/wiki/Lingui%C3%A7a"
+  },
+
+  {
+    "nome": "Salame",
+    "descricao": "Linguiça é a base da charcutaria!",
+    "link": "https://en.wikipedia.org/wiki/Salami"
+  },
+  {
+    "nome": "Presunto Cru",
+    "descricao": "Uma iguaria da culinária italiana e espanhola, vindo da perna do porco. [5]",
+    "link": "https://pt.wikipedia.org/wiki/Prosciutto"
+  },
+  {
+    "nome": "Pancetta",
+    "descricao": "Uma carne de porco curada e seca, consistindo na barriga de porco. [4]",
+    "link": "https://pt.wikipedia.org/wiki/Pancetta"
+  },
+  {
+    "nome": "Coppa",
+    "descricao": "Salume italiano de porco feito do músculo curado a seco que vai do pescoço à quarta ou quinta costela do ombro ou pescoço de porco. [1]",
+    "link": "https://en.wikipedia.org/wiki/Capocollo"
+  },
+  {
+    "nome": "Guanciale",
+    "descricao": "Um tipo de bacon não defumado italiano, preparado com as bochechas do porco. [13]",
+    "link": "https://en.wikipedia.org/wiki/Guanciale"
+  },
+  {
+    "nome": "Bacon",
+    "descricao": "Conhecido também como 'toucinho', o bacon é feito através do corte suíno 'pancetta'. [9, 11]",
+    "link": "https://pt.wikipedia.org/wiki/Bacon"
+  }
+]
